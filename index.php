@@ -21,7 +21,7 @@
 		<nav>
 			<ul>
 				<li><a href="#"><span class="#">Cultura y Deportes</span></a></li>
-				<li><a href="index.html"><span class="icon-home2"></span>Inicio</a></li>
+				<li><a href="index.php"><span class="icon-home2"></span>Inicio</a></li>
 				<li><a href="informacion.php"><span class="icon-books"></span>Informacion</a></li>
 				<li><a href="altas.php"><span class="icon-pencil"></span>Registro</a></li>
 				<li><a href="login.php"><span class="icon-user"></span>Login</a></li>
